@@ -1,0 +1,3 @@
+Name: Cristina
+Age: 26
+Favorite Color: Blue
